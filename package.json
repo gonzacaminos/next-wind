@@ -1,6 +1,7 @@
 {
   "name": "next-wind",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "author": "gonzacaminos",
   "private": true,
   "scripts": {
     "dev": "next dev",
